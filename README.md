@@ -1,6 +1,9 @@
 # DIO-Desafio-GitHub
 Repositório criado para o Desafio de Projeto Git/GitHub
 
-##LINKS ÚTEIS
+## ÍNDICE
+- Git&GitHub Notes
 
-[Sintaxe do Markdown](https://www.markdownguide.org/)
+## LINKS ÚTEIS
+- [Sintaxe do Markdown](https://www.markdownguide.org/)
+
